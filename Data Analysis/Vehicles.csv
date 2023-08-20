@@ -1,0 +1,281 @@
+﻿id,Vehicle Name,Vehicle Description,Branch
+1,T1125 FS Nth,Truck Isuzu NPR300 Tipper,Field Services North
+2,T1135 ME Nth,Truck Isuzu FRR600 Crane PFT 11T,Mechanical and Electrical Services - North
+3,T1140 FS Nth,Truck Isuzu NQR450 Multi Purpose 8.7T,Field Services North
+4,T1144 ME Sth,Truck Isuzu FRR500 Multi Purpose 10.7T,Mechanical and Electrical Services - South
+5,T1145 FS Nth,Truck Isuzu FRR500 Multi Purpose 10.7T,Field Services North
+6,T1146 FS Sth,Truck Isuzu FRR500 Multi Purpose 10.7T,Field Services South
+7,T1147 FS Sth,Truck Isuzu NQR450 Multi Purpose 8.7T,Field Services South
+8,T1149 FS Sth,Truck Isuzu FRR500 Multi Purpose 10.7T,Field Services South
+9,T1150 FS Sth,Truck Isuzu NQR450 Multi Purpose 8.7T,Field Services South
+10,T1151 FS Sth,Truck Mitsubishi Fighter Multi Purpose 10.4T,Field Services South
+11,T1152 Pri Wks Nth,Truck Isuzu NQR450 Multi Purpose 8.5T,Private Works North
+12,T1153 ME Nth,Truck Isuzu FRR500 Crane PFT 10.7T,Mechanical and Electrical Services - North
+13,T1154  ME Nth,Truck Isuzu FRR500 Crane PFT 10.7T,Mechanical and Electrical Services - North
+14,T1155 ME Sth,Truck Isuzu FRR500 Crane PFT 10.7T,Mechanical and Electrical Services - South
+15,T1157 FS Sth,Truck Isuzu NQR450 Multi Purpose 8.7T,Field Services South
+16,T1159 FS Sth,Truck Mitsubishi Canter FE Multi Purpose,Field Services South
+17,T1160 FS Sth,Truck Mitsubishi Canter FE Multi Purpose,Field Services South
+18,T1161 FS Nth,Truck Mitsubishi Canter FE Multi Purpose,Field Services North
+19,T1162 FS Sth,Truck Isuzu NPR300 Tipper 6.5T,Field Services South
+20,T1163 FS Sth,Truck Isuzu NPR300 Tipper 6.5T,Field Services South
+21,T1164 FS Sth,Truck Mitsubishi Canter FE Multi Purpose,Field Services South
+22,T1165 FS Nth,Truck Mitsubishi Fighter Tip/Crane 12T,Field Services North
+23,T1166 FS Sth,Truck Mitsubishi Canter FE Multi Purpose 8.5T,Field Services South
+24,T1167 Vac Truck NSC,Truck Mitsubishi Fuso 1427 Yellow Vacuum / Jetter 13.5T,Field Services North
+25,T1168 ME Sth,Truck Mitsubishi Fighter PFT,Mechanical and Electrical Services - South
+26,T1169 ME Nth,Truck Mitsubishi Fuso Crane,Mechanical and Electrical Services - North
+27,T1170 ME Sth,Truck Mitsubishi Fuso Mech. Services Crane,Mechanical and Electrical Services - South
+28,T1171 ME Sth,Truck Mitsubishi Fuso Crane PFT,Mechanical and Electrical Services - South
+29,T1172 FS Sth,Truck Isuzu NQR 87-190 Multi Purpose Truck 8.5T,Field Services South
+30,T1173 ME Crane Truck,Truck Isuzu Giga 455 CXZ Crane Heavy 24T,Mechanical and Electrical Services - North
+31,T1174 Vac Truck SSC,Truck Mitsubishi Fuso Fighter 1224 Vac 12T,Field Services South
+32,T1175 FS Sth,Truck Isuzu FSR 140/120 Tipper 14T,Field Services South
+33,T1176 FS Sth,Truck Mitsubishi Fuso Canter Hybrid Tipper,Field Services South
+34,T1177 Vac Truck Sugar Bag Rd,Truck Mitsubishi Fuso Fighter 1224 FK62 White Vac 12T,Field Services North
+35,T1178 Pri Wks Nth,Truck Mitsubishi Fuso Canter 515 Light 4.5T,Private Works North
+36,T1179 FS Sth,Truck Mitsubishi Canter 515 Light MRO 4.5T,Field Services South
+37,T1180 FS Nth,Truck Mitsubishi Fuso Canter 515 Light 4.5T,Field Services North
+38,T1181 Vac Truck Sth,Truck Mitsubishi Fuso Fighter 1224 FK62 Vac 12T,Field Services South
+39,T1182 FS Nth,Truck Mitsubishi Canter 515 Light W/-small Crane 4.5T,Field Services North
+40,T1183 FS Sth,Truck Mitsubishi Fuso Canter 515 Light MRO 4.5T,Field Services South
+41,T1184 FS Sth,Truck Mitsubishi Fuso Canter 515 Light MRO 4.5T,Field Services South
+42,T1185 FS Sth,Truck Mitsubishi Fuso Canter 515 Light MRO 4.5T,Field Services South
+43,T1186 FS Nth,Truck Mitsubishi Fuso Canter 515 Light MRO 4.5T,Field Services North
+44,T1187 FS Sth,Truck Mitsubishi Fuso Canter 515 Light MRO 4.5T,Field Services South
+45,T1188 FS Nth,Truck Mitsubishi Fuso Canter 515 Light MRO 4.5T,Field Services North
+46,T1189 FS Nth,Truck Mitsubishi Fuso Canter 515 Light MRO 4.5T,Field Services North
+47,T1190 FS Nth,Truck Isuzu NPR75-190 Tipper 7.5T,Field Services North
+48,T1191 FS Sth,Truck Mitsubishi Fuso Canter 515 Light MRO 4.5T,Field Services South
+49,T1192 FS Nth,Truck Isuzu NLR45-150 Light MRO 4.5T,Field Services North
+50,T1193 Pri Wks Sth,Truck Isuzu NQR87-190 Multipurpose 8.7T,Private Works South
+51,T1194 Pri Wks Sth,Truck Isuzu NPR75-190 Multi Purpose Tipper 7.5T,Private Works South
+52,T1195 FS Sth JET ROD,Truck Hino FE1426 4890 Jetrodding 14T,Field Services South
+53,T1196 FS Nth,Truck Isuzu NPR75-190 Tipper 7.5T,Field Services North
+54,T1198 ME Sth,Truck Mitsubishi Fuso FK62 Crane 11T,Mechanical and Electrical Services - South
+55,T1199 ME Nth,Truck Isuzu NPS75-150 4 x 4 7.5T Crane,Mechanical and Electrical Services - North
+56,T1200 Pri Wks Nth,Truck Hino 921 XXLong Multi Purpose Tipper 8.5T,Private Works North
+57,T1201 Pri Wks Nth,Truck Isuzu NPR 65-190 MWB AMT Tipper 6.5T,Private Works North
+58,T1202 FS Sth,Truck Isuzu FRR107-210 AMT Multi Purpose 10.7T,Field Services South
+59,T1203 Jet Rodder FS Nth,Truck Hino FE1426 AT Leaf Jettroding 14T,Field Services North
+60,T1204 FS Sth,Truck Isuzu FRR10-210 AMT  Multi Purpose 10.7T,Field Services South
+61,T1205 FS Nth,Truck Isuzu NQR 87-190 Multi Purpose 8.7T,Field Services North
+62,T1206 Pri Wks Sth,Truck Hino 921 XXLong Mutli Purpose Tipper 8.5T,Private Works South
+63,T1207 Pri Wks Sth,Truck Hino 921 XXLong Multi Purpose 8.5T,Private Works South
+64,T1208 - Pri Wks Sth,Truck Isuzu NPR 65-190 Multi Purpose 6.5T,Private Works
+65,T1209 FS Nth,Truck Isuzu NQR87-190 Multi Purpose 8.7T,Field Services North
+66,T1210  Pri Wks Nth,Truck Isuzu NPR 65-190 Multi Purpose 6.5T,Private Works North
+67,T1211 FS Nth,Truck Isuzu NQR 87-190 Multi Purpose 8.7T,Field Services North
+68,T1212 FS Nth,Truck Isuzu NQR 87-190 Multi Purpose Tipper 8.7T,Field Services North
+69,T1213 FS Sth,Truck Isuzu FRR107-210 AMT Multi Purpose 10.7T,Field Services South
+70,T1214 Vac Truck Noosa,Truck Fuso Fighter 1224 Vacuum 12T,Field Services North
+71,T1215 FS Nth,Truck Isuzu NQR 87-190 Muti Purpose Tipper 8.7T,Field Services North
+72,T1216 FS Sth,Truck Hino FC1124 AT Leaf Multi Purpose Tipper 11T,Field Services South
+73,T1217 FS Nth,Truck Isuzu NQR80-190  8.7T,Field Services North
+74,T1218 FS Nth,Truck Isuzu NQR 87-190 Multi Purpose Tipper 8.7T,Field Services North
+75,T1219 ME Sth,Truck Isuzu FRR110-260 Auto Crane 11T,Mechanical and Electrical Services - South
+76,T1220 ME Nth,Truck Isuzu FRR110-260 Auto Crane 11T,Mechanical and Electrical Services - North
+77,T1221 ME Sth,Truck Isuzu FRR110-260 Auto Crane-11T,Mechanical and Electrical Services - South
+78,T1222 Pri Wks Nth,Truck FUSO Canter 918 XXLWB Multi Purpose Tipper 8.5T,Private Works North
+79,T1223 ME Nth,Truck Isuzu FRR110-260 Auto Crane 11T,Mechanical and Electrical Services - North
+80,T1224 ME Crane Sth,Truck Isuzu FRR110-260 Auto Crane 11T,Mechanical and Electrical Services - South
+81,T1225 ME Nth,Truck Isuzu FRR110-260 Auto Crane 11T,Mechanical and Electrical Services - North
+82,T1226 ME Sth,Truck Isuzu FRR110-260 Auto Crane 11T,Mechanical and Electrical Services - South
+83,T1227 ME Sth,Truck Isuzu FSR 140-260 XLWB Tilt Tipper Auto 14T,Mechanical and Electrical Services - South
+84,T1228 FS Sth,Truck 4x2 Hino-Multi Purpose 11T-Tipper-Tailgate Lifter,Field Services South
+85,T1229 FS Nth,Truck 4x2 Hino-Multi Purpose 8.5T-Tipper-Tailgate Lifter,Field Services North
+86,T1230 FS Nth,Truck 4x2 Hino-Multi Purpose 8.5T-Tipper-Tailgate Lifter,Field Services North
+87,T1232 FS Nth,Truck 4x2 Isuzu-Multi Purpose 8.5T-Tipper-Tailgate Lifter,Field Services North
+88,T1233 FS Sth,Truck 4x2 Isuzu-Multi Purpose 8.5T-Tipper-Tailgate Lifter,Field Services South
+89,T1234 Burp STP Tipper,Truck 4x2 Isuzu-Tipper 16T-Aluminum Body,Treatment Plants
+90,T1248 FS Nth Tipper,Truck Isuzu NPR 75-190,Field Services North
+91,V1624 ME Sth,Utility Ford Ranger 4X2 Canopy Single Cab EIC,Mechanical and Electrical Services - South
+92,V1626 Capital Delivery,Utility Ford Ranger 4x4 Alloy Tray Single Cab,Capital Delivery
+93,V1635 Tech DS Sth,Utility Ford Ranger 4x2 Canopy Dual Cab ICT,Technology & Digital Solutions
+94,V1639 FS Nth,Utility Ford Ranger 4x4 Alloy Tray Single Cab & Valve Exerciser,Field Services North
+95,V1651 IPCD,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,IPCD
+96,V1653 WS Sth,Utility Ford Ranger 4x2 Canopy Dual Cab,Water Solutions
+97,V1655 IPCD,Utility Ford Ranger 4x4 Alloy Tray Single Cab SPO,IPCD
+98,V1657 STP Nth OnCall,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Treatment Plants
+99,V1665 FS Sth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services South
+100,V1666 FS Sth,Utility Ford Ranger 4x2 Canopy Single Cab,Field Services South
+101,V1668 Water Solut. S,Utility Ford Ranger 4x2 Canopy Single Cab,Water Solutions
+102,V1672 SSC Pool Car 1,Hatch Toyota Prius SSC Pool car 1,Pool Vehicle
+103,V1673 SSC Pool Car 2,Hatch Toyota Prius Pool car SSC 2,Pool Vehicle
+104,V1674 Pool Mkting,Van Hyundai iLoad,Pool Vehicle
+105,V1675 WACI,Utility Ford Ranger 4x2 Canopy Single Cab,Wellbeing & Continuous Improvement
+106,V1676 STP Sth Bribie,Utility Ford Ranger 4x4 Alloy Tray Dual Cab SPO,Treatment Plants
+107,V1677 WACI Adviser Sth,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Wellbeing & Continuous Improvement
+108,V1685 CCTV FS Sth,Van Mercedes Sprinter MWB CCTV,Field Services South
+109,V1686 Pool retail Nth,Hatch Toyota Prius - Retail Nth Pool Car,Pool Vehicle
+110,V1687 FS Sth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services South
+111,V1688 CCTV FS Nth,Van Mercedes Sprinter CCTV,Field Services North
+112,V1689 ME Nth,Utility Ford Ranger 4x2 Single Cab,Mechanical and Electrical Services - North
+113,V1693 Tech DS Nth,Van Volkswagen Caddy,Technology & Digital Solutions
+114,V1696 FS Sth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services South
+115,V1697 FS Nth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services North
+116,V1699 FS Sth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services South
+117,V1702 WACI Enviro N,Utility Ford Ranger 4x2 Canopy Single Cab,Wellbeing & Continuous Improvement
+118,V1704 Cap Delivery,Utility Ford Ranger 4x4 Alloy Tray Dual cab,Capital Delivery
+119,V1705 STP Nth Lbhr,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Treatment Plants
+120,V1706 Facilities (Cap Del),Utility Ford Ranger 4x2 Well Back  Dual Cab,Capital Delivery
+121,V1707 FS Sth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services South
+122,V1709 Cap Delivery,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Capital Delivery
+123,V1710 IPCD,Utility Ford Ranger 4x2 Alloy Tray Single Cab,IPCD
+124,V1711 STP Nth,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Treatment Plants
+125,V1712 STP Sth,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Treatment Plants
+126,V1713 Asset Kn P,Utility Ford Ranger 4x2 Alloy Tray Dual Cab,Asset Knowledge & Performance
+127,V1714 IPCD,Utility Ford Ranger 4x2 Alloy Tray Dual Cab,IPCD
+128,V1715 IPCD,Utility Ford Ranger 4x4 Alloy Tray  Dual Cab,IPCD
+129,V1716 IPCD,Utility Ford Ranger 4x4 Alloy Tray Single Cab,IPCD
+130,V1717 FS Nth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services North
+131,V1718 Water Solut. S,Utility Ford Ranger 4x4 Canopy Single Cab LAB,Water Solutions
+132,V1720 Pool NCC 3,Hatch Toyota Prius - Pool Vehicle Maud St 2,Pool Vehicle
+133,V1721 Cap Delivery,Utility Mitsubishi Triton 4x2 Alloy Tray Single Cab SPO,Capital Delivery
+134,V1723 Comm Delivery,Utility Toyota Hilux 4x4 Canopy Single Cab,Commercial Delivery
+135,V1724 Cap Delivery,Utility Ford Ranger 4x2 Alloy Tray Modified Single Cab SPO,Capital Delivery
+136,V1727 Planning Nth,Utility Ford Ranger 4x2 Well Back Dual Cab,Network Operations
+137,V1728 FS Nth,Utility Ford Ranger 4x2 Well Back Dual Cab,Field Services North
+138,V1729 Net Ops,Utility Toyota Hilux 4x2 Alloy Tray Single Cab,Network Operations
+139,V1732 STP Nth,Utility Holden Colorado 4x2 Alloy Tray Modified Single Cab,Treatment Plants
+140,V1735 ME Nth,Utility Holden Colorado 4x2 Alloy Tray Single Cab,Mechanical and Electrical Services - North
+141,V1736 Pri Wks Nth,Utility Ford Ranger 4x4 Alloy Tray Modified Single Cab,Private Works North
+142,V1737 Retail Serv N,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Retail Services
+143,V1739 FS Sth,Utility Ford Ranger 4x2 Canopy Single Cab,Field Services South
+144,V1740 FS Sth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services South
+145,V1743 Comm Delivery,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Commercial Delivery
+146,V1744 Asset Kn P,Utility Toyota Hilux 4x2 Alloy Tray Single Cab SPO,Asset Knowledge & Performance
+147,V1748 Pool Retail S,Hatch Toyota Prius - Retail South Pool Car,Pool Vehicle
+148,V1749 CS Trade waste,Utility Ford Ranger 4x2 Canopy Single Cab,Trade Waste
+149,V1750 Water Solut. S,Utility Ford Ranger 4x2 Canopy Single Cab,Water Solutions
+150,V1752,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,""
+151,V1754 Cap Delivery,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Capital Delivery
+152,V1755 Pool STP,Utility Ford Ranger 4x2 Alloy Tray Dual Cab,Pool Vehicle
+153,V1756 FS Nth,Utility Ford Ranger 4x4 Canopy Single Cab MRO,Field Services North
+154,V1757 FS Nth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services North
+155,V1758 Pri Wks Nth,Utility Ford Ranger 4x2 Canopy Single Cab EIC,Private Works North
+156,V1759 Cap Delivery,Utility Ford Ranger 4x2 Alloy Tray Modified Single Cab SPO,Capital Delivery
+157,V1760 ME Sth,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Mechanical and Electrical Services - South
+158,V1762 Pri Wks Nth,Utility Ford Ranger 4x4 Alloy Tray Single Cab SPO,Private Works North
+159,V1764 STP Sth Burpen,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Treatment Plants
+160,V1765 FS Nth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services North
+161,V1766 ME Nth,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Mechanical and Electrical Services - North
+162,V1768 ME Nth,Utility Ford Ranger 4x2 Canopy Single Cab EIC,Mechanical and Electrical Services - North
+163,V1769 ME Sth,Utility Ford Ranger 4x2 Canopy Single Cab EIC,Mechanical and Electrical Services - South
+164,V1770 ME Nth,Utility Ford Ranger 4x2 Canopy Single Cab EIC,Mechanical and Electrical Services - North
+165,V1771 ME Nth,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Mechanical and Electrical Services - North
+166,V1772 FS Sth,Utility Ford Ranger 4x2  Canopy Single Cab MRO,Field Services South
+167,V1774 ME Sth,Utility Ford Ranger 4x2 Canopy Single Cab EIC,Mechanical and Electrical Services - South
+168,V1775 FS Nth,Utility Ford Ranger 4x4 Canopy Single Cab MRO,Field Services North
+169,V1777 FS Nth,Utility Ford Ranger 4x4 Canopy Single Cab MRO,Field Services North
+170,V1778 FS North,Utility Ford Ranger 4x4 Canopy Single Cab MRO,Field Services North
+171,V1780 FS PSA Nth,Utility Ford Ranger 4x2 Half Canopy Single Cab PSA,Field Services North
+172,V1781 FS PSA Sth,Utility Ford Ranger 4x2 Half Canopy Single Cab PSA South,Field Services North
+173,V1782 SSC Pool Ute,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Pool Vehicle
+174,V1783 STP N Technolg,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Treatment Plants
+175,V1784 WACI ENV Nth,Utility Ford Ranger 4x2  Canopy Single Cab,Wellbeing & Continuous Improvement
+176,V1785 ME Nth,Utility Ford Ranger 4x2 Well Back Dual Cab,Mechanical and Electrical Services - North
+177,V1786 ME Nth,Utility Ford Ranger 4x2 Well Back Dual Cab,Mechanical and Electrical Services - North
+178,V1787 Pool SCC 1,Hatch Toyota Prius - M &E,Pool Vehicle
+179,V1788 Pool NCC 1,Hatch Toyota Prius - Pool Vehicle Maud St 1,Pool Vehicle
+180,V1789 STP Pool Nth,Hatch Toyota Prius - STP Pool Vehicle Maroochy STP,Treatment Plants
+181,V1790 Pool SCC 2,Hatch Toyota Prius - Pool Vehicle - King St 2,Pool Vehicle
+182,V1791 STP Sth,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Treatment Plants
+183,V1792 STP Sth (Cab),Utility Ford Ranger 4x2 Well Back Dual Cab,Treatment Plants
+184,V1793 ME Nth,Utility Ford Ranger 4x4 Half Canopy Single Cab EIC w/Crane,Mechanical and Electrical Services - North
+185,V1794 ME Sth,Utility Ford Ranger 4x2 Canopy Single Cab EIC,Mechanical and Electrical Services - South
+186,V1795 ME Sth,Utility Ford Ranger 4x2 Canopy Single Cab EIC,Mechanical and Electrical Services - South
+187,V1796 Net Ops,Utility Ford Ranger 4x2 Alloy Tray modified Single Cab SPO,Network Operations
+188,V1797 Pri Wks Sth,Utility Ford Ranger 4x4 Alloy Tray Single Cab SPO,Private Works South
+189,V1798 Pri Wks Sth,Utility Ford Ranger 4x2 Half Canopy Single Cab PSA,Private Works South
+190,V1799 Asset Kn P,Utility Ford Ranger 4x2 Alloy Tray Dual Cab,Asset Knowledge & Performance
+191,V1800 STP Sth OIC,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Treatment Plants
+192,V1801 STP Sth,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Treatment Plants
+193,V1802 M & E Nth,Utility Ford Ranger 4x2 Canopy Single Cab,Mechanical and Electrical Services - North
+194,V1803 ME Nth,Utility Ford Ranger 4x2 Canopy Single Cab EIC,Mechanical and Electrical Services - North
+195,V1804 WACI Nth,Utility Ford Ranger 4x2 Well Back Dual Cab,Wellbeing & Continuous Improvement
+196,V1805 Cap Del STP,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Capital Delivery
+197,V1806 CS Trade waste,Utility Ford Ranger 4x2 Canopy Single Cab,Trade Waste
+198,V1807 Cap Del,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Capital Delivery
+199,V1808 Comm Delivery,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Commercial Delivery
+200,V1809 Comm Delivery,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Commercial Delivery
+201,V1810 STP Nth,Utility Ford Ranger  4x2 Alloy Tray Dual Cab,Treatment Plants
+202,V1811 FS Nth,Utility Ford Ranger 4x4 Canopy Single Cab MRO,Field Services North
+203,V1812 NSC Fleet Ute,Utility Ford Ranger 4x2 Alloy Tray Dual Cab,Field Services North
+204,V1813 FS Nth,Utility Ford Ranger 4x4 Half Canopy Single Cab MRO,Field Services North
+205,V1814 STP N Technolg,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Treatment Plants
+206,V1815 STP S Technolg,Utility Ford Ranger 4x2 XL Single Cab,Treatment Plants
+207,V1816 STP N A Mgr,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Treatment Plants
+208,V1817 STP Nth,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Treatment Plants
+209,V1818 FS Sth,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Field Services South
+210,V1819 FS Nth,Utility Ford Ranger 4x2 Dual Cab,Field Services North
+211,V1820 FS Nth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services North
+212,V1821 FS Nth,Utility Ford Ranger 4x2 Canopy Single Cab MRO,Field Services North
+213,V1822 FS Sth On call,Utility Ford Ranger 4x2 Canopy Alloy Tray Single Cab,Field Services South
+214,V1823 IPCD,Utility Ford Ranger 4x4 Alloy Tray Single Cab SPO,IPCD
+215,V1824 CS Trade waste,Utility Ford Ranger 4x2  Canopy Single Cab,Trade Waste
+216,V1827 ME Sth,Utility Ford Ranger 4x2 Well Back Dual Cab SSB,Mechanical and Electrical Services - South
+217,V1828 Planning,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Network Operations
+218,V1829 STP Nth,Utility Ford Ranger 4x4 Alloy Tray 4x4 Dual Cab,Treatment Plants
+219,V1830 Planning,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Network Operations
+220,V1831 Pri Wks Sth,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Private Works South
+221,V1832 ME Sth,Utility Ford Ranger 4x2 Single Cab Canopy EIC,Mechanical and Electrical Services - South
+222,V1833 Pri Wks Sth,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Private Works South
+223,V1834 STP Nth,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Treatment Plants
+224,V1835 ME Sth,Utility Ford Ranger 4x2 Canopy Single Cab,Mechanical and Electrical Services - South
+225,V1836 Pri Wks Nth,Utility Ford Ranger 4x2  Alloy Tray Single Cab,Private Works North
+226,V1837 Pri Wks Nth,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Private Works North
+227,V1838 Pri Wks Nth,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Private Works North
+228,V1839 Net Ops,Utility Ford Ranger 4x2 Well Back Dual Cab,Network Operations
+229,V1840 Water Sol Sth,Utility Ford Ranger 4x4 Canopy Single Cab - Lab,Water Solutions
+230,V1841 WACI Nth,Utility Ford Ranger 4x2 Alloy Tray Single Cab,Wellbeing & Continuous Improvement
+231,V1842 Water Sol Nth,Utility Ford Ranger 4x4 Canopy Single Cab - Lab,Water Solutions
+232,V1843 Water Sol Sth,Utility Ford Ranger 4x4 Canopy  Single Cab - Lab,Water Solutions
+233,V1844 Water Sol TBA,Utility Ford Ranger 4x4 Canopy Single Cab - Lab,Water Solutions
+234,V1845 Water Sol,Utility Ford Ranger 4x4 Canopy Single Cab - Lab,Water Solutions
+235,V1847 ME Nth,Utility Ford Ranger 4x4 Alloy Tray Dual Cab,Mechanical and Electrical Services - North
+236,V1849 NSC RAV TDS,Wagon Toyota Rav4 GX Hybrid AWD,Technology & Digital Solutions
+237,V1851 Cap Del Wamuran,Utility Ford Ranger 4x4 Alloy Tray Dual Cab,Capital Delivery
+238,V1852 ENV MGR,Utility Ford Ranger 4x2 Alloy Tray  Dual Cab,Wellbeing & Continuous Improvement
+239,V1855 Planning,Utility Ford Ranger 4x2 Canopy Single Cab,Network Operations
+240,V1857 Tech DS Sth,Utility Ford Ranger 4x2 Well Back Dual Cab,Technology & Digital Solutions
+241,V1858 Enviro Sth,Utility Ford Ranger 4x2 Alloy Tray  Dual Cab,Wellbeing & Continuous Improvement
+242,V1859 ME Sth,Utility Ford Ranger 4x2 Well Back Dual Cab,Mechanical and Electrical Services - South
+243,V1860 Facilities Mgr (Cap Del),Utility Ford Ranger 4x2  Dual Cab,Capital Delivery
+244,V1861 Cap Del STP,Utility Ford Ranger 4x2 Well Back Dual Cab,Capital Delivery
+245,V1862 Pri Wks Sth,Utility Ford Ranger 4x2 Alloy Tray  Single Cab SPO,Private Works South
+246,V1864 ME Nth (not in service),Utility Ford Ranger 4x2 Single Cab,Mechanical and Electrical Services - North
+247,V1865 Retail Serv S,Utility Ford Ranger 4x2 Alloy Tray Modified Single Cab,Retail Services
+248,V1866 STP Sth,Utility Ford Ranger 4x2 Single Cab,Treatment Plants
+249,V1870 Facilities,Utility Ford Ranger 4x2 Alloy Tray Single Cab SPO,Capital Delivery
+250,V1873 FS Nth (not in service),Utility Ford Ranger 4x2 Single Cab Field Services Canopy C0011,Field Services North
+251,V1877 Comm Delivery (not in service),Utility Ford Ranger 4x4 Canopy Single Cab,Commercial Delivery
+252,V1878 Planning Nth,Utility Ford Ranger 4x4 Alloy Tray Single Cab,Network Operations
+253,V1881 Pri Wks Sth,Utility Ford Ranger 4x4 Alloy Tray Modified Single Cab,Private Works South
+254,V1889 TBA (not in service),Utility Ford Ranger 4x2 Single Cab M& E Canopy C0002,TBA (not in service)
+255,V1890 TBA (not in service),Utility Ford Ranger 4x2 Single Cab M& E Canopy C0005,TBA (not in service)
+256,V1891 TBA (not in service),Utility Ford Ranger 4x2 Single Cab M& E Canopy C0003,TBA (not in service)
+257,V1892 STP Sth,Utility Ford Ranger 4x2 Single Cab,Treatment Plants
+258,V1893 STP Sth,Utility Ford Ranger 4x2 Single Cab,Treatment Plants
+259,V1894 STP Nth,Utility Ford Ranger 4x2 Single Cab,Treatment Plants
+260,V1895 STP Nth,Utility Ford Ranger 4x2 Single Cab,Treatment Plants
+261,V1900 WACI Nth,Utility Ford Ranger Dual Cab Chassis,Wellbeing & Continuous Improvement
+262,V1901 PW Sth,Utility Ford Ranger Single Cab Chassis 4 x 4,Private Works South
+263,V1903 Pri Wks Nth,Utility Ford Ranger Single Cab Chassis 4 x 4,Private Works North
+264,V1906 FS Nth,Utility Ford Ranger Single Cab Chassis 4 x 4,Field Services North
+265,V1907 IPCD,Utility Ford Ranger Single Cab Chassis 4 x 4,IPCD
+266,V1908 IPCD,Utility Ford Ranger Single Cab Chassis 4 x 4,IPCD
+267,V1909 ME Nth,Utility Ford Ranger Single Cab Chassis 4 x 4,Mechanical and Electrical Services - North
+268,V1910 Pri Wks Nth,Utility Ford Ranger Single Cab Chassis 4 x 4,Private Works North
+269,V1911 STP Kawana Pool,Utility Ford Ranger Double Cab Chassis 4x2,Treatment Plants
+270,V1912 STP Maroochy Pool,Utility Ford Ranger Double Cab Chassis 4x2,Treatment Plants
+271,V1913 Cap Del STP,Utility Ford Ranger Double Cab Chassis 4x2,Capital Delivery
+272,V1914 IPCD,Utility Ford Ranger Single Cab Chassis 4 x 2,IPCD
+273,V1915 Net Ops,Utility Ford Ranger Single Cab Chassis 4 x 2,Network Operations
+274,V1916 STP,Utility Ford Ranger 4x2 Well Back Dual Cab,Treatment Plants
+275,V1917 Net Ops,Utility Ford Ranger 4x2 Dual Cab,Network Operations
+276,V1919 ME Nth,Utility Ford Ranger 4x2 Well Back Dual Cab,Mechanical and Electrical Services - North
+277,V1920 SSC Pool,Utility Ford Ranger 4x2 Dual Cab,Pool Vehicle
+278,V1921 M&E Nth,Utility Ford Ranger 4x2 Dual Cab,Mechanical and Electrical Services - North
+279,V1922 STP Mgr,Utility Ford Ranger 4x2 Dual Cab,Treatment Plants
+280,V1935 Planning,Utility Ford Ranger 4x2 Dual Cab,Network Operations

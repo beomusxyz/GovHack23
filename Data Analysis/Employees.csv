@@ -1,0 +1,337 @@
+﻿id,Employee Number,Home Address,Domiciled Work Location
+1,EMP1,Home - BURPENGARY,Southern Service Centre
+2,EMP2,Home - Burpengary East,Southern Service Centre
+3,EMP3,N/A,N/A
+4,EMP4,N/A,N/A
+5,EMP5,N/A,"Treatment Plants - Kawana, Maleny, Kenilworth, Landsborough"
+6,EMP6,Home - PALMVIEW,Northern Service Centre
+7,EMP7,Home - COORAN,Northern Service Centre
+8,EMP8,Home - Mount Coolum,Northern Service Centre
+9,EMP9,Home - Cotton Tree,Northern Corporate Centre
+10,EMP10,Home - BURNSIDE,Northern Corporate Centre
+11,EMP11,Home - Aroona,Northern Service Centre
+12,EMP12,Home - POMONA,Southern Service Centre
+13,EMP13,N/A,N/A
+14,EMP14,Home - NARANGBA,"Treatment Plants - South Caboolture, Woodford, Burpengary, Bribie Island"
+15,EMP15,Home - BALD HILLS,Southern Service Centre
+16,EMP16,Home - KENILWORTH,Northern Corporate Centre
+17,EMP17,Home - SIPPY DOWNS,Northern Service Centre
+18,EMP18,Home - BRAY PARK,Treatment Plant Murrumba Dayboro
+19,EMP19,Home - Rosemount,Northern Corporate Centre
+20,EMP20,N/A,Northern Service Centre
+21,EMP21,Home - MAROOCHYDORE,Northern Corporate Centre
+22,EMP22,Home - Aroona,"Treatment Plants - Kawana,  Landsborough, Maleny"
+23,EMP23,Home - BALD HILLS,Southern Service Centre
+24,EMP24,N/A,N/A
+25,EMP25,N/A,Southern Service Centre
+26,EMP26,N/A,N/A
+27,EMP27,N/A,N/A
+28,EMP28,N/A,N/A
+29,EMP29,Home - BUDERIM,Northern Corporate Centre
+30,EMP30,Home - Morayfield,Northern Corporate Centre
+31,EMP31,Home - TEWANTIN,Northern Service Centre
+32,EMP32,N/A,N/A
+33,EMP33,Home - KALLANGUR,Southern Service Centre
+34,EMP34,N/A,N/A
+35,EMP35,Home - AROONA,Northern Corporate Centre
+36,EMP36,Home - CABOOLTURE,Southern Service Centre
+37,EMP37,Home - BUDERIM LINKS,Northern Service Centre
+38,EMP38,N/A,Northern Service Centre
+39,EMP39,N/A,N/A
+40,EMP40,Home - PETRIE,Southern Service Centre
+41,EMP41,Home - CABOOLTURE,Southern Service Centre
+42,EMP42,Home - Woombye,Northern Service Centre
+43,EMP43,Home - CABOOLTURE,Southern Service Centre
+44,EMP44,Home - Morayfield,Southern Corporate Centre
+45,EMP45,Home - MARCOOLA,Treatment Plant Maroochydore
+46,EMP46,Home - Ashgrove,Northern Corporate Centre
+47,EMP47,Home - Maroochydore,Northern Corporate Centre
+48,EMP48,Home - Brighton,Southern Service Centre
+49,EMP49,N/A,N/A
+50,EMP50,N/A,N/A
+51,EMP51,N/A,N/A
+52,EMP52,N/A,N/A
+53,EMP53,Home - BUDERIM,Northern Service Centre
+54,EMP54,N/A,N/A
+55,EMP55,N/A,Northern Corporate Centre
+56,EMP56,N/A,Southern Service Centre
+57,EMP57,N/A,N/A
+58,EMP58,Home - Yaroomba,Northern Service Centre
+59,EMP59,Home - BELLMERE,Southern Service Centre
+60,EMP60,Home - Caboolture,Southern Service Centre
+61,EMP61,Home - MAPLETON,Northern Corporate Centre
+62,EMP62,Home - PALMWOODS,Northern Service Centre
+63,EMP63,Home - BUDERIM,"Treatment Plants - Kawana, Maleny, Kenilworth, Landsborough"
+64,EMP64,N/A,N/A
+65,EMP65,Home - Dakabin,Southern Service Centre
+66,EMP66,Home - WARNER,Southern Service Centre
+67,EMP67,Home - Maroochydore,Northern Corporate Centre
+68,EMP68,Home - BANKSIA BEACH,Southern Service Centre
+69,EMP69,Home - kippa-ring,Southern Service Centre
+70,EMP70,Home - BEERWAH,Southern Service Centre
+71,EMP71,Home - Nambour,Northern Service Centre
+72,EMP72,Home - Kings Beach,Southern Service Centre
+73,EMP73,Home - GOLDEN BEACH,"Treatment Plants - Kawana, Maleny, Kenilworth, Landsborough"
+74,EMP74,Home - Morayfield,Southern Service Centre
+75,EMP75,Home - PARREARRA,Northern Service Centre
+76,EMP76,Home - MOOLOOLAH VALLEY,Northern Corporate Centre
+77,EMP77,Home - Alexandra Headland,Northern Service Centre
+78,EMP78,Home - WARANA,Northern Service Centre
+79,EMP79,Home - ROTHWELL,Southern Service Centre
+80,EMP80,Home - UPPER CABOOLTURE,Southern Service Centre
+81,EMP81,Home - Noosaville,Northern Service Centre
+82,EMP82,Home - COOLUM,Northern Service Centre
+83,EMP83,Home - BUDERIM,Northern Service Centre
+84,EMP84,Home - Woody Point,Southern Service Centre
+85,EMP85,Home - DAYBORO,Southern Service Centre
+86,EMP86,Home - Buddina,Northern Corporate Centre
+87,EMP87,Home - WOODFORD,Southern Service Centre
+88,EMP88,Home - Birtinya,Northern Service Centre
+89,EMP89,N/A,N/A
+90,EMP90,Home - MAROOCHYDORE,Northern Service Centre
+91,EMP91,N/A,N/A
+92,EMP92,Home - BRACKEN RIDGE,Northern Corporate Centre
+93,EMP93,Home - BRAY PARK,Southern Service Centre
+94,EMP94,Home - MOUNT COOLUM,Northern Corporate Centre
+95,EMP95,Home - CURRIMUNDI,Northern Service Centre
+96,EMP96,Home - LANDERS SHOOT,Northern Service Centre
+97,EMP97,Home - caloundra west,Northern Service Centre
+98,EMP98,Home - ridgewood,Northern Corporate Centre
+99,EMP99,Home - IMBIL,Northern Service Centre
+100,EMP100,Home - PETRIE,Northern Service Centre
+101,EMP101,Home - WOORIM,"Treatment Plants - South Caboolture, Woodford, Burpengary, Bribie Island"
+102,EMP102,N/A,N/A
+103,EMP103,Home - STRATHPINE,Southern Service Centre
+104,EMP104,Home - MOOLOOLABA,Northern Corporate Centre
+105,EMP105,Home - MANGO HILL,Southern Service Centre
+106,EMP106,Home - Morayfield,Southern Service Centre
+107,EMP107,Home - BLI BLI,Northern Service Centre
+108,EMP108,Home - Burnside,"Treatment Plants - Nambour, Coolum, Cooroy, Kenilworth"
+109,EMP109,Home - NUDGEE BEACH,Southern Service Centre
+110,EMP110,Home - BLI BLI,Northern Service Centre
+111,EMP111,Home - PETRIE,"Treatment Plants - South Caboolture, Woodford, Burpengary, Bribie Island"
+112,EMP112,Home - maroochydore,Northern Service Centre
+113,EMP113,Home - Woombye,Northern Service Centre
+114,EMP114,Home - Sandstone Point,Southern Service Centre
+115,EMP115,Home - maroochydore,Northern Service Centre
+116,EMP116,N/A,N/A
+117,EMP117,N/A,N/A
+118,EMP118,Home - COORAN,Northern Service Centre
+119,EMP119,Home - ALBANY CREEK,Southern Service Centre
+120,EMP120,Home - BURPENGARY,"Treatment Plants - Murrumba Downs, Brendale, Dayboro"
+121,EMP121,Home - BUDERIM,Southern Service Centre
+122,EMP122,N/A,N/A
+123,EMP123,Home - Carters Ridge,Northern Service Centre
+124,EMP124,Home - GLENVIEW,"Treatment Plants - Kawana, Maleny, Kenilworth, Landsborough"
+125,EMP125,N/A,Northern Service Centre
+126,EMP126,Home - CABOOLTURE SOUTH,Southern Service Centre
+127,EMP127,Home - COOLUM,Northern Service Centre
+128,EMP128,Home - BURPENGARY,Southern Service Centre
+129,EMP129,Home - PACIFIC PARADISE,Northern Service Centre
+130,EMP130,N/A,N/A
+131,EMP131,Home - NORTH LAKES,"Treatment Plants - South Caboolture, Woodford, Burpengary, Bribie Island"
+132,EMP132,Home - YANDINA CREEK,Northern Service Centre
+133,EMP133,Home - LANDSBOROUGH,Northern Service Centre
+134,EMP134,Home - SANDY CREEK,Southern Service Centre
+135,EMP135,Home - NAMBOUR,Northern Service Centre
+136,EMP136,Home - COES CREEK,Northern Service Centre
+137,EMP137,Home - Carseldine,Southern Service Centre
+138,EMP138,N/A,N/A
+139,EMP139,Home - Chermside,Southern Service Centre
+140,EMP140,Home - AROONA,Northern Corporate Centre
+141,EMP141,Home - Clear Mountain,Southern Service Centre
+142,EMP142,Home - MOUNT COOLUM,Northern Corporate Centre
+143,EMP143,Home - Burpengary,Southern Service Centre
+144,EMP144,N/A,N/A
+145,EMP145,N/A,N/A
+146,EMP146,N/A,N/A
+147,EMP147,Home - Burnside,Northern Service Centre
+148,EMP148,N/A,Northern Corporate Centre
+149,EMP149,Home - Little Mountain,"Treatment Plants - Kawana, Maleny, Kenilworth, Landsborough"
+150,EMP150,Home - Maroochydore,Northern Service Centre
+151,EMP151,Home - Caloundra,Northern Service Centre
+152,EMP152,N/A,N/A
+153,EMP153,Home - POMONA,Northern Service Centre
+154,EMP154,Home - MINYAMA,Northern Service Centre
+155,EMP155,Home - DULONG,Northern Corporate Centre
+156,EMP156,N/A,N/A
+157,EMP157,Home - Mountain Creek,Northern Service Centre
+158,EMP158,Home - Coolum Beach,Northern Service Centre
+159,EMP159,Home - VICTORIA POINT,Northern Service Centre
+160,EMP160,Home - MOOLOOLABA,Northern Service Centre
+161,EMP161,Home - Caboolture,Southern Corporate Centre
+162,EMP162,Home - Arana Hills,Southern Service Centre
+163,EMP163,Home - Kallangur,"Treatment Plants - Murrumba Downs, Brendale, Dayboro"
+164,EMP164,N/A,N/A
+165,EMP165,Home - Maleny,Southern Corporate Centre
+166,EMP166,N/A,N/A
+167,EMP167,N/A,N/A
+168,EMP168,Home - PETRIE,Southern Service Centre
+169,EMP169,Home - MINYAMA,Northern Service Centre
+170,EMP170,Home - Dayboro,Southern Service Centre
+171,EMP171,N/A,N/A
+172,EMP172,N/A,N/A
+173,EMP173,Home - Alexandra Headlands,Northern Service Centre
+174,EMP174,N/A,N/A
+175,EMP175,Home - MOUNTAIN CREEK,Northern Service Centre
+176,EMP176,Home - BUDDINA,Northern Service Centre
+177,EMP177,Home - Meridian Plains,Northern Service Centre
+178,EMP178,Home - NAMBOUR,Northern Service Centre
+179,EMP179,Home - ROYSTON,Southern Service Centre
+180,EMP180,Home - Mountain Creek,Northern Service Centre
+181,EMP181,Home - YANDINA,"Treatment Plants - Nambour, Coolum, Cooroy, Kenilworth"
+182,EMP182,Home - MUDJIMBA,Northern Corporate Centre
+183,EMP183,Home - LANDSBOROUGH,Treatment Plant Maroochydore
+184,EMP184,N/A,N/A
+185,EMP185,N/A,"Treatment Plants - South Caboolture, Woodford, Burpengary, Bribie Island"
+186,EMP186,Home - BELLMERE,Southern Service Centre
+187,EMP187,Home - PELICAN WATERS,Northern Corporate Centre
+188,EMP188,N/A,N/A
+189,EMP189,Home - BANKSIA BEACH,Southern Service Centre
+190,EMP190,Home - TEWANTIN,Northern Service Centre
+191,EMP191,N/A,Northern Service Centre
+192,EMP192,N/A,N/A
+193,EMP193,N/A,N/A
+194,EMP194,N/A,N/A
+195,EMP195,Home - Caboolture,Southern Service Centre
+196,EMP196,Home - MOUNT COOLUM,Northern Service Centre
+197,EMP197,Home - BURPENGARY,Southern Service Centre
+198,EMP198,Home - PEREGIAN SPRINGS,Northern Corporate Centre
+199,EMP199,Home - MAROOCHY RIVER,Northern Service Centre
+200,EMP200,Home - Obi Obi,Northern Service Centre
+201,EMP201,Home - Stony Creek,Southern Service Centre
+202,EMP202,Home - YAROOMBA,Northern Corporate Centre
+203,EMP203,N/A,N/A
+204,EMP204,Home - Parrearra,Northern Service Centre
+205,EMP205,Home - KALLANGUR,Southern Service Centre
+206,EMP206,Home - NARANGBA,Southern Service Centre
+207,EMP207,Home - Pelican Waters,Treatment Plant Maroochydore
+208,EMP208,Home - GOLDEN BEACH,Northern Service Centre
+209,EMP209,Home - NARANGBA,Southern Service Centre
+210,EMP210,Home - BANKSIA BEACH,Southern Corporate Centre
+211,EMP211,N/A,N/A
+212,EMP212,Home - ELIMBAH,"Treatment Plants - South Caboolture, Woodford, Burpengary, Bribie Island"
+213,EMP213,Home - LITTLE MOUNTAIN,Northern Service Centre
+214,EMP214,Home - LITTLE MOUNTAIN,"Treatment Plants - Kawana, Maleny, Kenilworth, Landsborough"
+215,EMP215,Home - Aroona,Southern Service Centre
+216,EMP216,Home - PETRIE,Southern Service Centre
+217,EMP217,Home - TAIGUM,Northern Corporate Centre
+218,EMP218,N/A,N/A
+219,EMP219,Home - MOUNT COOLUM,Northern Service Centre
+220,EMP220,Home - Pelican Waters,Northern Corporate Centre
+221,EMP221,Home - MOOLOOLAH VALLEY,Northern Corporate Centre
+222,EMP222,Home - Griffin,Southern Service Centre
+223,EMP223,Home - ROTHWELL,Southern Service Centre
+224,EMP224,Home - BOONDALL,Southern Service Centre
+225,EMP225,Home - PEREGIAN BEACH,Northern Service Centre
+226,EMP226,Home - Wamuran,Southern Service Centre
+227,EMP227,Home - MT PLEASANT,Southern Service Centre
+228,EMP228,Home - BIRTINYA,Northern Service Centre
+229,EMP229,Home - CURRIMUNDI,Northern Service Centre
+230,EMP230,Home - CURRIMUNDI,Northern Corporate Centre
+231,EMP231,Home - LANDSBOROUGH,Northern Service Centre
+232,EMP232,Home - Bokarina,Northern Corporate Centre
+233,EMP233,Home - WAMURAN,Southern Service Centre
+234,EMP234,Home - MOUNTAIN CREEK,Northern Service Centre
+235,EMP235,N/A,N/A
+236,EMP236,N/A,N/A
+237,EMP237,Home - Maroochydore,Southern Corporate Centre
+238,EMP238,Home - Burpengary East,Southern Service Centre
+239,EMP239,Home - Maroochydore,Southern Corporate Centre
+240,EMP240,Home - BUDERIM,Northern Corporate Centre
+241,EMP241,Home - SAMFORD VALLEY,Southern Service Centre
+242,No Registered Driver,N/A,N/A
+243,EMP242,Home - PETRIE,Northern Service Centre
+244,EMP243,Home - NAMBOUR,Northern Corporate Centre
+245,EMP244,Home - DIDDILLIBAH,Northern Service Centre
+246,EMP245,Home - Currimundi,Northern Service Centre
+247,EMP246,Home - LITTLE MOUNTAIN,Northern Service Centre
+248,EMP247,Home - BEACHMERE,Southern Service Centre
+249,EMP248,Home - MAROOCHYDORE,Northern Service Centre
+250,EMP249,Home - CABOOLTURE,"Treatment Plants - South Caboolture, Woodford, Burpengary, Bribie Island"
+251,EMP250,Home - WOODFORD,Southern Service Centre
+252,EMP251,Home - Wurtulla,Northern Service Centre
+253,EMP252,Home - CALOUNDRA,Treatment Plant Maroochydore
+254,EMP253,Home - Caloundra West,"Treatment Plants - Nambour, Coolum, Cooroy, Kenilworth"
+255,EMP254,Home - MAROOCHYDORE,Northern Service Centre
+256,EMP255,Home - Golden Beach,Northern Corporate Centre
+257,EMP256,Home - BALD HILLS,Southern Service Centre
+258,EMP257,Home - PACIFIC PARADISE,Treatment Plant Maroochydore
+259,EMP258,Home - DOONAN,Northern Service Centre
+260,EMP259,Home - Bli Bli,Northern Service Centre
+261,EMP260,Home - COES CREEK,Northern Service Centre
+262,EMP261,Home - North Lakes,Southern Service Centre
+263,EMP262,Home - WATERFORD,Northern Corporate Centre
+264,EMP263,Home - Ningi,Southern Service Centre
+265,EMP264,Home - PALMWOODS,"Treatment Plants - Kawana, Maleny, Kenilworth, Landsborough"
+266,EMP265,N/A,N/A
+267,EMP266,N/A,N/A
+268,EMP267,Home - LANDERS SHOOT,Northern Service Centre
+269,EMP268,Home - NAMBOUR,Northern Service Centre
+270,EMP269,Home - GRACEVILLE,Southern Service Centre
+271,EMP270,Home - Little Mountain,Northern Service Centre
+272,EMP271,N/A,N/A
+273,EMP272,Home - BEACHMERE,Northern Service Centre
+274,EMP273,Home - BUDERIM,"Treatment Plants - Nambour, Coolum, Cooroy, Kenilworth"
+275,EMP274,Home - BRAY PARK,"Treatment Plants - Murrumba Downs, Brendale, Dayboro"
+276,EMP275,Home - SIPPY DOWNS,Northern Corporate Centre
+277,EMP276,Home - MAROOCHYDORE,Northern Service Centre
+278,EMP277,Home - DECEPTION BAY,Southern Service Centre
+279,EMP278,Home - PELICAN WATERS,Northern Service Centre
+280,EMP279,Home - NAMBOUR,Northern Service Centre
+281,EMP280,N/A,N/A
+282,EMP281,Home - MORAYFIELD,Southern Service Centre
+283,EMP282,Home - ROCKSBERG,Southern Service Centre
+284,EMP283,N/A,Northern Service Centre
+285,EMP284,Home - Nundah,Southern Service Centre
+286,EMP285,N/A,N/A
+287,EMP286,N/A,Northern Corporate Centre
+288,EMP287,Home - Deception Bay,Southern Service Centre
+289,EMP288,N/A,Northern Service Centre
+290,EMP289,Home - MERIDAN PLAINS,Northern Corporate Centre
+291,EMP290,Home - YAMANTO,Southern Service Centre
+292,EMP291,Home - Boondall,Southern Service Centre
+293,EMP292,N/A,N/A
+294,EMP293,Home - Morayfield,Southern Service Centre
+295,EMP294,Home - MARCOOLA,Northern Corporate Centre
+296,EMP295,Home - ELIMBAH,Southern Service Centre
+297,EMP296,Home - ALBANY CREEK,Southern Service Centre
+298,EMP297,Home - MAROOCHYDORE,Southern Corporate Centre
+299,EMP298,N/A,Southern Service Centre
+300,EMP299,Home - PALMWOODS,Northern Corporate Centre
+301,EMP300,Home - MT MEE,Southern Service Centre
+302,EMP301,Home - NIRIMBA,Northern Service Centre
+303,EMP302,Home - MARCOOLA,"Treatment Plants - Nambour, Coolum, Cooroy, Kenilworth"
+304,EMP303,N/A,N/A
+305,EMP304,Home - DECEPTION BAY,Northern Corporate Centre
+306,EMP305,Home - ALBANY CREEK,Southern Service Centre
+307,EMP306,N/A,N/A
+308,EMP307,Home - Tinbeerwah,Northern Service Centre
+309,EMP308,Home - WAMURAN,Southern Service Centre
+310,EMP309,Home - Twin Waters,Northern Corporate Centre
+311,EMP310,Home - WOORIM,"Treatment Plants - South Caboolture, Woodford, Burpengary, Bribie Island"
+312,EMP311,N/A,N/A
+313,EMP312,Home - BELLMERE,Southern Service Centre
+314,EMP313,Home - Joyner,Southern Service Centre
+315,EMP314,Home - MAROOCHYDORE,Northern Service Centre
+316,EMP315,Home - Caloundra,Northern Corporate Centre
+317,EMP316,N/A,"Treatment Plants - Murrumba Downs, Brendale, Dayboro"
+318,EMP317,N/A,N/A
+319,EMP318,Home - Deagon,Southern Corporate Centre
+320,EMP319,Home - Bongaree,Southern Service Centre
+321,EMP320,Home - Kallangur,"Treatment Plants - Nambour, Coolum, Cooroy, Kenilworth"
+322,EMP321,Home - NARANGBA,Southern Corporate Centre
+323,EMP322,N/A,N/A
+324,EMP323,Home - MAROOCHYDORE,Northern Corporate Centre
+325,EMP324,Home - MERIDAN PLAINS,Northern Corporate Centre
+326,EMP325,N/A,N/A
+327,EMP326,Home - Beerwah,Southern Service Centre
+328,EMP327,Home - Birtinya,Northern Service Centre
+329,EMP328,Home - BURPENGARY,Southern Service Centre
+330,EMP329,Home - Palmview,Northern Service Centre
+331,EMP330,N/A,N/A
+332,EMP331,N/A,N/A
+333,EMP332,N/A,N/A
+334,EMP333,Home - PACIFIC PARADISE,Southern Service Centre
+335,EMP334,Home - MT COOLUM,Northern Service Centre
+336,EMP335,Home - MOOLOOLAH,Northern Service Centre
