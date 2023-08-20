@@ -6,6 +6,36 @@ import plotly.graph_objects as go
 
 import sqlite3
 
+import math
+
+def dist(lat1, long1, lat2, long2):
+    # Convert latitude and longitude to 
+    # spherical coordinates in radians.
+    degrees_to_radians = math.pi/180.0
+        
+    # phi = 90 - latitude
+    phi1 = (90.0 - lat1)*degrees_to_radians
+    phi2 = (90.0 - lat2)*degrees_to_radians
+        
+    # theta = longitude
+    theta1 = long1*degrees_to_radians
+    theta2 = long2*degrees_to_radians
+        
+    # Compute spherical distance from spherical coordinates.
+        
+    # For two locations in spherical coordinates 
+    # (1, theta, phi) and (1, theta', phi')
+    # cosine( arc length ) = 
+    #    sin phi sin phi' cos(theta-theta') + cos phi cos phi'
+    # distance = rho * arc length
+    
+    cos = (math.sin(phi1)*math.sin(phi2)*math.cos(theta1 - theta2) + 
+           math.cos(phi1)*math.cos(phi2))
+    arc = math.acos( cos )
+
+    # Multiply arc by the radius of the earth in kilometers to get distance in km
+    return arc * 6373.0
+
 # Open database connection
 db = sqlite3.connect('database.db')
 
@@ -28,38 +58,20 @@ address_dict = {}
 for row in cursor:
     address_dict[row[0]] = (row[1], row[2])
 
-
-# Draw arrows between each fromAddress and toAddress
-arrows = []
-for i in range(len(fromAddress)):
-    if fromAddress[i].split(',')[0] in address_dict and toAddress[i].split(',')[0] in address_dict:
-        from_lat_long = address_dict[fromAddress[i].split(',')[0]]
-        to_lat_long = address_dict[toAddress[i].split(',')[0]]
-
-        arrows.append(dict(
-            x=[from_lat_long[1], to_lat_long[1]],
-            y=[from_lat_long[0], to_lat_long[0]],
-            mode='lines',
-            line=dict(width=1, color='red'),
-            opacity=0.5
-        ))
-
 # Plot each arrow on a map
 fig = px.scatter_mapbox(lat=[i[0] for i in address_dict.values()],
                         lon=[i[1] for i in address_dict.values()],
-                        zoom=10,
+                        zoom=9,
                         mapbox_style="stamen-terrain")
 
-print(len(arrows))
-for i, arrow in enumerate(arrows):
-    if i > 1000:
-        break
-    fig.add_trace(go.Scattermapbox(
-        lat=arrow['y'],
-        lon=arrow['x'],
-        mode='lines',
-        line=dict(width=1, color='red'),
-        opacity=0.5
-    ))
+# Add all the lines at one time
+# Convert all the arrows to scattermapbox traces
+fig.add_traces(go.Scattermapbox(
+    lat=[i[0] for i in address_dict.values()],
+    lon=[i[1] for i in address_dict.values()],
+    mode='lines',
+    line=dict(width=1, color='red'),
+    opacity=0.1
+))
 
 fig.show()
